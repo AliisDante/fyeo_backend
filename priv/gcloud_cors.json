@@ -1,0 +1,8 @@
+[
+	{
+		"origin": ["*"],
+		"method": ["GET", "POST", "DELETE", "HEAD"],
+		"responseHeader": ["Content-Type", "x-amz-meta-e2ee-iv"],
+		"maxAgeSeconds": 3600
+	}
+]
